@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gowthamtupili
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in High Perfomance Computing.
 - 📫 How to reach me **gowthamreddytupili@gmail.com**
 
 <!---
